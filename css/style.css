@@ -24,7 +24,7 @@ h4 {
 }
 
 h2 {
-  color: #f39a3e;
+  color: #cdcc01;
 }
 
 a {
@@ -37,7 +37,7 @@ ul {
 }
 
 strong {
-  color: #f39a3e;
+  color: #cdcc01;
   font-weight: 400;
 }
 
@@ -105,7 +105,7 @@ header ul li {
 }
 
 header ul li a:hover {
-  color: #f39a3e;
+  color: #cdcc01;
 }
 
 header a {
@@ -190,7 +190,7 @@ header a {
 
 .offer-elem-text-title {
   font-weight: 700;
-  color: #f39a3e;
+  color: #cdcc01;
 }
 
 /* who */
@@ -304,7 +304,7 @@ em {
 }
 
 .contact-elem-text a:hover {
-  color: #f39a3e;
+  color: #cdcc01;
 }
 
 .contact-elem-text p i {
