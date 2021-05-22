@@ -1,0 +1,77 @@
+/* vp + header */
+
+header {
+  height: auto;
+  flex-direction: column;
+}
+
+header ul {
+  flex-direction: column;
+  text-align: center;
+}
+
+header ul li {
+  margin-top: 1.5rem;
+  padding: 0.5rem;
+  border-bottom: 1px dotted #ddd;
+}
+
+.vp {
+  height: 80vh;
+}
+
+.vp-content h1 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.vp-content p {
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: white;
+  text-shadow: -1px -1px 0 #333, 1px -1px 0 #333, -1px 1px 0 #333,
+    1px 1px 0 #333;
+}
+
+/* offer */
+
+.offer {
+  padding: 5rem 1rem 5rem 1rem;
+  text-align: center;
+}
+
+.offer-list {
+  flex-direction: column;
+}
+
+/* who */
+
+.who {
+  flex-direction: column-reverse;
+}
+
+.who-content-text {
+  padding: 4rem 2rem;
+}
+
+.who-content-img {
+  min-height: 300px;
+}
+
+/* contact */
+
+.contact {
+  padding: 0 1rem;
+}
+
+.contact-elem-text {
+  padding: 0 0.5rem;
+}
+
+/* where */
+
+.where {
+  flex-direction: column;
+  padding-bottom: 5rem;
+}
